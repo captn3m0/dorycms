@@ -1,0 +1,19 @@
+ToDo
+
+#Submission could be a page as well
+#Admin options listing:
+	~edit/delete pages
+	~edit/delete posts
+	Review submissions
+		Delete/Publish
+	
+#Special Pages
+	~Category page per category
+		only list snippets
+	~Archive Pages
+		count months, and then list them
+	Return their listing suitably
+	
+#counter on all posts...
+#comment system
+#gravatar system...work on that

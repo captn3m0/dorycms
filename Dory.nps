@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="687" startPos="457" endPos="457" selMode="0" lang="PHP" encoding="-1" filename="J:\xampplite\htdocs\dory\functions.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="523" startPos="119" endPos="119" selMode="0" lang="PHP" encoding="-1" filename="J:\xampplite\htdocs\dory\test.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="398" startPos="223" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="J:\xampplite\htdocs\dory\post.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="402" startPos="139" endPos="139" selMode="0" lang="PHP" encoding="-1" filename="J:\xampplite\htdocs\dory\page.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="139" startPos="22" endPos="22" selMode="0" lang="PHP" encoding="-1" filename="J:\xampplite\htdocs\dory\error.php" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

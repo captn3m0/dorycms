@@ -1,0 +1,24 @@
+﻿==DoryCMS==
+
+Features
+  * Simple wiki like in-place editing.
+  * Uses flat file html storage
+  * Fast, effecient
+  * Single user website management.
+  * Forget Everything Else
+  * Allows Categories
+  * Does not intrude on your templates, or styles
+ 
+Install
+  1 Extrack dory-xx.zip to your root folder
+  2 Include page.php where you want to include the page content.
+  3 See the configuration file for configuration options
+  4 Check the categories as $cat=include "category.php" in your file
+  5 Copy the code for categories in your code where you want to 
+    dislay categories.
+
+Code
+//Some sample php code on how to incorporate it.
+
+Contact
+
